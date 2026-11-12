@@ -1,0 +1,25 @@
+skill: shape-ticket
+session: 01a1d107-447c-7059-b13d-a0d2c7f31b5b
+ts: 2026-11-12T19:05:11Z
+repo: nertzy/pi-condense
+items:
+  - kind: ticket
+    key: "#37"
+    outcome: written
+author:
+  name: Grant Hutchins
+  email: git@nertzy.com
+gauntlet_version: 8.4.10
+models:
+  - anthropic-fable/claude-fable-5-2
+  - github-copilot/gpt-6.1-terra:medium
+  - github-copilot/grok-4.7:low
+  - github-copilot/gpt-6-astra:low
+  - anthropic-fable/claude-fable-5-2:low
+  - github-copilot/gpt-6.1-sol:low
+tokens:
+  input: 29816
+  output: 88702
+  cache_read: 5579392
+  cache_write: 633448
+cost: 12.750082350000001
